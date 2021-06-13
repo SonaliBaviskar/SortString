@@ -29,7 +29,7 @@ class SortString
           }
         }
         System.out.println(" ");
-        System.out.println("order is:");
+        System.out.println("ascending order is:");
         for(int i=0;i<a.length;i++)
         {
             System.out.println(a[i]+ " ");
